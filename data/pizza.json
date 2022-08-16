@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sicilian Pizza", 
+        "ingredients": "Cheese, olives",
+        "price": 105.00, 
+        "url": "images/sicilian pizza1.png"
+    }, 
+    {
+        "name": "Chicago Pizza1", 
+        "ingredients": "Cheese, pepperoni",
+        "price": 111.00, 
+        "url": "images/chicago pizza1.png"
+    }, 
+    {
+        "name": "Neopolitan Pizza", 
+        "ingredients": "Cheese, tomato, chicken",
+        "price": 121.00, 
+        "url": "images/neopolitan pizza1.png"
+    }, 
+    {
+        "name": "Greek Pizza", 
+        "ingredients": "Cheese, tomato, chili",
+        "price": 125.50, 
+        "url": "images/greek pizza1.png"
+    }, 
+    {
+        "name": "BBQ Chicken Pizza", 
+        "ingredients": "Cheese, chicken, mushrooms",
+        "price": 135.75, 
+        "url": "images/bbq chicken pizza1.png"
+    }
+]

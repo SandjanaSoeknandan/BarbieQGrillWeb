@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Hamburger", 
+        "ingredients": "Ham, tomato, cheese, onions",
+        "price": 45.00, 
+        "url": "images/hamburger1.png"
+    },
+    {
+        "name": "BBQ Chicken Burger", 
+        "ingredients": "Chicken, tomato, cheese, lettuce",
+        "price": 55.00, 
+        "url": "images/bbq chicken burger1.png"
+    },
+    {
+        "name": "Beef Burger", 
+        "ingredients": "Beef, tomato, onions, cheese",
+        "price": 50.00, 
+        "url": "images/beef burger1.png"
+    }, 
+    {
+        "name": "Cheese Burger", 
+        "ingredients": "Buger, cheese, onions, lettuce",
+        "price": 40.75, 
+        "url": "images/cheesebuger1.png"
+    },
+    {
+        "name": "Elk Burger", 
+        "ingredients": "Pork, tomato, saus",
+        "price": 57.50, 
+        "url": "images/elk burger1.png"
+    }, 
+    {
+        "name": "Tukey Burger", 
+        "ingredients": "Turkey, tomato, lettuce",
+        "price": 65.00, 
+        "url": "images/turkey burger1.png"
+    }
+]

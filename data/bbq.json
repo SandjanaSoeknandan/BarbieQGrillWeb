@@ -1,0 +1,32 @@
+[
+    {
+        "name": "BBQ Pork ribs", 
+        "ingredients": "Pork, chili",
+        "price": 121.50, 
+        "url": "images/bbq pork ribs1.png"
+    }, 
+    {
+        "name": "BBQ Pork Skewers", 
+        "ingredients": "Pork belly",
+        "price": 125.50, 
+        "url": "images/bbq pork skewers1.png"
+    }, 
+    {
+        "name": "BBQ Drumsticks", 
+        "ingredients": "Chicken, thyme, dill",
+        "price": 117.50, 
+        "url": "images/bbq drumstick1.png"
+    }, 
+    {
+        "name": "BBQ Chicken", 
+        "ingredients": "Chicken, saus",
+        "price": 125.50, 
+        "url": "images/bbq chicken1.png"
+    }, 
+    {
+        "name": "BBQ Sausage", 
+        "ingredients": "hicken, parsley, onions",
+        "price": 111.50, 
+        "url": "images/bbq sausage1.png"
+    }
+]

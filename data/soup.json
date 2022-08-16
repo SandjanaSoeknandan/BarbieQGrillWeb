@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Corn Soup", 
+        "ingredients": "Corn, chicken, parsley",
+        "price": 25.00, 
+        "url": "images/corn soup1.png"
+    },
+    {
+        "name": "Egg and Miso Soup", 
+        "ingredients": "Egg, Miso, Chicken",
+        "price": 30.00, 
+        "url": "images/em soup1.png"
+    },
+    {
+        "name": "Steak Soup", 
+        "ingredients": "Steak, noodles, chicken stock",
+        "price": 37.50,
+        "url": "images/steak soup1.png"
+    }
+]
